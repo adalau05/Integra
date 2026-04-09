@@ -53,3 +53,4 @@ Implementation Overview:
 2.	Orchestration: LangGraph triggers a Serverless GPU instance.
 3.	Synthesis: A local LLM generates a custom SOP in seconds.
 4.	Delivery: The GPU shuts down, and the user receives a private, encrypted strategy.
+
