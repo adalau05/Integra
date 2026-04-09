@@ -8,3 +8,17 @@ Deploy API hooks to verify BC Step Code 4 compliance. We will convert your 65.4 
 
 **2. Load Shifting:**
 Shift 12% of flexible activity into 'Green Windows' where utility carbon intensity is lowest. Maintain baseline stability.
+
+
+SOP explanations:
+1. ESG Metric Harvesting
+The Simple Version: This is about turning "boring" electricity data into marketing gold and legal proof.
+•	BC Step Code 4: This is a high-level energy efficiency standard in British Columbia. By saying we "verify compliance," the AI is checking if the building is efficient enough to meet the province's strict future laws.
+•	Sovereign Energy Certificates: This isn't a standard bank document; it's a digital badge of honor. It proves the merchant isn't just "claiming" to be green—they have the data to back it up.
+•	Why it matters: If a merchant wants to sell their products as "Eco-Friendly" or avoid "Greenwashing" accusations, they need this data to prove their 65.4 kW peak isn't wasting power.
+2. Load Shifting
+The Simple Version: It’s not about using less energy; it’s about using it at the right time.
+•	Green Windows: The carbon intensity of the electricity grid changes throughout the day. Sometimes the power comes from "cleaner" sources (like hydro), and sometimes it comes from "dirtier" imports. The AI identifies when the grid is "cleanest."
+•	The 12% Shift: The AI isn't asking the merchant to turn off the lights. It’s asking them to move "flexible" tasks (like running a heavy dishwasher, charging a vehicle, or pre-cooling a room) away from a "dirty/expensive" time to a "green/cheap" time.
+•	Thermal Inertia (The Secret Weapon): Think of a building like a giant battery. If you cool the building down to 18°C at 1:00 PM (when it's cheap/green), you can turn the AC off at 3:00 PM (when it's expensive/dirty) and the building will stay cool for hours.
+
